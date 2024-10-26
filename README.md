@@ -3,13 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-d5a16.web.app/](https://portfolio-d5a16.web.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@sd.amitanand](https://medium.com/@sd.amitanand)
-
 - 💬 Ask me about **React, Node, MongoDB, SQL, JavaScript, Flutter, Python, C++ e.t.c**
 
 - 📫 How to reach me **amitanand.asqre@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t3QGpwpfheFuyDg3qbQbONipk8R_NPPt/view?usp=sharing](https://drive.google.com/file/d/1t3QGpwpfheFuyDg3qbQbONipk8R_NPPt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t3QGpwpfheFuyDg3qbQbONipk8R_NPPt/view?usp=sharing)
 
 - ⚡ Fun fact **My previous supervisor would describe me as reliable since I regularly submitted high-quality work by their respective deadlines.**
 
