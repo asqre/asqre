@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">I'm an Open Source Contributor, Interactive web app developer in MERN and Flutter, UX designer on Adobe XD.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asqre" alt="asqre" /></a> </p>
-
 - 🔭 I’m currently working on [Western Ghat Project](https://github.com/asqre/western-ghat-client_RoomBookingPlatform)
 
 - 🌱 I’m currently learning **JavaScript, React, Node, MERN Stack e.t.c**
