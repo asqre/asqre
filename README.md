@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">I'm an Open Source Contributor, Interactive web app developer in MERN and Flutter, UX designer on Adobe XD.</h3>
 
-- 🔭 I’m currently working on [Western Ghat Project](https://github.com/asqre/western-ghat-client_RoomBookingPlatform)
-
-- 🌱 I’m currently learning **JavaScript, React, Node, MERN Stack e.t.c**
-
-- 👨‍💻 All of my projects are available at [https://amitanand.netlify.app/](https://amitanand.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-d5a16.web.app/](https://portfolio-d5a16.web.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sd.amitanand](https://medium.com/@sd.amitanand)
 
