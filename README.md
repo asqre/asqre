@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Amit Anand</h1>
+<h3 align="center">I'm an Open Source Contributor, Interactive web app developer.</h3>
+
+- 👨‍💻 All of my projects are available at [https://portfolio-d5a16.web.app/](https://portfolio-d5a16.web.app/)
 
 
 ## 🌐 Socials:
